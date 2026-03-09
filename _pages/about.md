@@ -1,7 +1,7 @@
 
 ---
 permalink: /
-title: "Zuoxu Wu | Biomedical AI & Medical Imaging"
+title: "Zuoxu Wu "
 author_profile: true
 redirect_from: 
   - /about/
